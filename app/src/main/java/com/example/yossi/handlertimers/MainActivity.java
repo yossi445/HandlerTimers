@@ -54,5 +54,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         else if(v == btnMin1)
             timer1.speedDown();
 
+        //...
+
     }
 }
